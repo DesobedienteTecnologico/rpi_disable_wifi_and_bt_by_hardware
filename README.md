@@ -47,9 +47,10 @@ X-ray image by **@Vilas1979**
 ### Desoldering iron tutorial:
 - [Desoldering online video from DuckDuckGo](https://duckduckgo.com/video_frame?url=https%3A%2F%2Fwww.youtube-nocookie.com%2Fembed%2F7jQXYmZKvYU%3Fwmode%3Dtransparent%26iv_load_policy%3D3%26autoplay%3D1%26html5%3D1%26showinfo%3D0%26rel%3D0%26modestbranding%3D1%26playsinline%3D0%26theme%3Dlight)
 
-License: DesobedienteTecnologico **CC BY 4.0**
+### Text tutorial:
 
+- Get soldering iron quite warm. Put the soldering iron on top of each extremes (first one, and then the other) of the SMD and push a bit to one side.
 
-```python
+---
 
-```
+###### License: **CC BY 4.0**
