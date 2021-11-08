@@ -1,5 +1,8 @@
 # Disabling WiFI/Bluetooth by hardware [ Raspberry Pi Zero W and Zero 2 W ]
 
+# Tranlations
+ - <a href="https://github.com/DesobedienteTecnologico/rpi_disable_wifi_and_bt_by_hardware/blob/main/README_es.md">Español</a>
+
 ### Index:
  1. Intro.
  1. CYW/BCM43438 schematics.
@@ -47,7 +50,7 @@ X-ray image by **@Vilas1979**
 Information about **SR_VLX**:
 ![](images/4.png)
 
-VCC and GND still connected into the board but chip is not able to work without the inductor. But don't worry:
+VDD and GND still connected into the board but chip is not able to work without the inductor. But don't worry:
 
 💡 **As a simile**: Having a car with 1 of 3 <a href="https://en.wikipedia.org/wiki/Anti-lock_braking_system">ABS/brakes</a> cable broken. The engine will start, but the ECU will detect that the <a href="https://en.wikipedia.org/wiki/Anti-lock_braking_system">ABS</a> is not reachable. So is impossible to get connected to it, transmit any data and use that component.
 
