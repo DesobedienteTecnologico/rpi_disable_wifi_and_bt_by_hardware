@@ -16,7 +16,7 @@ Thanks that we got access to a X-ray picture of the wireless chip, I tried to fi
 
 The best news are that RPi Zero w and RPi Zero 2 W wireless chip still in the same position, is not rotated and in both boards we should remove exactly the same SMD component. Cool!, isn't it? 🙂
 
-I didn't end up removing <a href="https://en.wikipedia.org/wiki/IC_power-supply_pin">VCC</a> becasuse I can't see well the all layers and to me seems like <a href="https://en.wikipedia.org/wiki/IC_power-supply_pin">VCC</a> comes from another PCB layer under the chip.
+I didn't end up removing <a href="https://en.wikipedia.org/wiki/IC_power-supply_pin">VDD</a> becasuse I can't see well the all layers and to me seems like <a href="https://en.wikipedia.org/wiki/IC_power-supply_pin">VDD</a> comes from another PCB layer under the chip.
 
 ---
 # CYW/BCM43438 schematics:
