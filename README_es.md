@@ -49,7 +49,7 @@ Información sobre **SR_VLX**:
 VDD y GND siguen estando conectado a la placa, pero el chip no será capaz de trabajar faltando el inductor. Pero no te preocupes.
 
 💡 **Pequeño ejemplo de similitud**:
-Teniendo un coche con 1 de 3 cables del <a href="https://es.wikipedia.org/wiki/Sistema_antibloqueo_de_ruedas">ABS/Freno</a> roto. El coche arrancará, pero la centralíta detectará que hay un error ya que no se puede comunicar con el ABS. Entoncés es imposible comunicarse con el y el <a href="https://es.wikipedia.org/wiki/Sistema_antibloqueo_de_ruedas">ABS</a> no funcionaŕa.
+Teniendo un coche con 1 de 3 cables del <a href="https://es.wikipedia.org/wiki/Sistema_antibloqueo_de_ruedas">ABS</a> roto. El coche arrancará, pero la centralíta detectará que hay un error ya que no se puede comunicar con el ABS. Entoncés al ser imposible comunicarse con el <a href="https://es.wikipedia.org/wiki/Sistema_antibloqueo_de_ruedas">ABS</a> no funcionará incluso estando en un momento crítico que sea importante utilizarlo.
 
 ![](images/5.png)
 
