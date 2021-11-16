@@ -9,6 +9,7 @@
  1. X-ray images and WLBGA ball map (colored).
  1. Images showing what to remove and extra.
  1. Check by terminal if WiFi and Bluetooth are disconnected.
+ 1. [NEW] Scheme with examples to disable WiFi and Bluetooth from different layers.
  ---
  # Intro:
 
@@ -88,6 +89,14 @@ If bluetoothctl do not open or seems to be frozen, is good signal... But if open
 If you can see values (Probably not), write me back.
 
 Enjoy!
+
+---
+
+# NEW scheme with examples to disable WiFi and Bluetooth from different layers.
+
+![](images/schema_en.png)
+
+As a note: If a new kernel is compiled without the WiFi or Bluetooth modules, as well as disabling certain components, it is not necessary to use any of the commands shown above.
 
 ---
 

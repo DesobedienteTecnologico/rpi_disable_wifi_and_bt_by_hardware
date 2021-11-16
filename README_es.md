@@ -6,6 +6,7 @@
  1. Imágen en rayos-x y mapa de los pines del chip (en color).
  1. Imágen enseñando lo que hay que quitar de la placa y un extra.
  1. Comprobar por Terminal si el WiFi o Bluetooth está desconectado.
+ 1. [NUEVO] Esquema con ejemplos para deshabilitar WiFi y Bluetooth desde distintas capas.
  ---
  # Introducción:
 
@@ -86,6 +87,14 @@ Si bluetoothctl no abre y parece estár congelado, es buena señal... Pero si se
 Si puedes ver valores (Posiblemente no), escríbeme.
 
 A disfrutar!
+
+---
+
+# Esquema con ejemplos para deshabilitar WiFi y Bluetooth desde distintas capas.
+
+![](images/schema_es.png)
+
+Cabe destacar que si se compila un kernel nuevo sin los módulos de WiFi o Bluetooth al igual que deshabilitar ciertos componentes no es necesario el uso de nínguno de los comandos mostrados anteriormente.
 
 ---
 
