@@ -63,7 +63,7 @@ VDD and GND still connected into the board but chip is not able to work without 
 
 
 ### Random desoldering iron tutorial for SMD:
-- [Desoldering online video from DuckDuckGo](https://duckduckgo.com/video_frame?url=https%3A%2F%2Fwww.youtube-nocookie.com%2Fembed%2F7jQXYmZKvYU%3Fwmode%3Dtransparent%26iv_load_policy%3D3%26autoplay%3D1%26html5%3D1%26showinfo%3D0%26rel%3D0%26modestbranding%3D1%26playsinline%3D0%26theme%3Dlight)
+- [Desoldering online video from @BTCPuertoRico](https://www.youtube.com/watch?v=9TKrwdoipWQ)
 
 ### Text tutorial just using desoldering iron:
 
