@@ -1,4 +1,4 @@
-# Disabling WiFI/Bluetooth by hardware [ Raspberry Pi Zero W and Zero 2 W ]
+# Disabling WiFI/Bluetooth by hardware [ From Raspberry Pi Zero W to 3B+ ]
 
 ### Translations:
  - <a href="https://github.com/DesobedienteTecnologico/rpi_disable_wifi_and_bt_by_hardware/blob/main/README_es.md">Español</a>
@@ -8,6 +8,7 @@
  1. CYW/BCM43438 schematics.
  1. X-ray images and WLBGA ball map (colored).
  1. Images showing what to remove and extra.
+ 1. Raspberry Pi Zero 2 W shield information.
  1. Check by terminal if WiFi and Bluetooth are disconnected.
  1. [NEW] Scheme with examples to disable WiFi and Bluetooth from different layers.
  ---
@@ -62,8 +63,29 @@ VDD and GND still connected into the board but chip is not able to work without 
 ![](images/6.png)
 
 
-### Random desoldering iron tutorial for SMD:
-- [Desoldering online video from @BTCPuertoRico](https://www.youtube.com/watch?v=9TKrwdoipWQ)
+### Raspberry Pi Zero 2 W metal shield information:
+This is the metal shield that contains the wireless chip. You should remove it, in order to access to the SMD components:
+
+#### You can use:
+
+To remove the whole shield:
+1. Heat gun
+1. Hair dryer
+
+To break a part of the shield:
+1. Dremel
+1. Sand paper
+
+![](images/metalshield.jpg)
+
+Once you have removed it you will see this (marked in red, the component to be removed):
+
+
+![](images/rpiz2w.jpg)
+
+
+### Desoldering video:
+- [Desoldering YT video by @BTCPuertoRico](https://www.youtube.com/watch?v=9TKrwdoipWQ)
 
 ### Text tutorial just using desoldering iron:
 
