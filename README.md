@@ -1,7 +1,7 @@
 # Disabling WiFI/Bluetooth by hardware [ From Raspberry Pi Zero W to 3B+ ]
 
 ### Translations:
- - <a href="https://github.com/DesobedienteTecnologico/rpi_disable_wifi_and_bt_by_hardware/blob/main/README_es.md">Español</a>
+ - <a href="https://estudiobitcoin.com/deshabilitar-wifi-y-bluetooth-de-raspberry-pi/">Español</a>
 
 ### Index:
  1. Intro.
