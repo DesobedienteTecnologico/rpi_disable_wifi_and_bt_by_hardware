@@ -9,6 +9,7 @@
  1. X-ray images and WLBGA ball map (colored).
  1. Images showing what to remove and extra.
  1. Raspberry Pi Zero 2 W shield information.
+ 1. Pliers to remove the SMD inductor and video.
  1. Check by terminal if WiFi and Bluetooth are disconnected.
  1. [NEW] Scheme with examples to disable WiFi and Bluetooth from different layers.
  ---
@@ -84,6 +85,19 @@ Once you have removed it you will see this (marked in red, the component to be r
 ![](images/rpiz2w.jpg)
 
 
+## Remove SMD inductor
+
+### Easy: with pliers:
+
+<img src="https://user-images.githubusercontent.com/52879067/166446926-0cdae21c-49ea-4af2-9c9f-4160f7cba173.png" alt="drawing" style="width:250px;"/>
+
+### Video showing how to remove it with pliers:
+
+
+<a href="https://estudiobitcoin.com/wp-content/uploads/2022/03/Is-working-and-is-very-easy-and-simple-with-pliers.-%EF%B8%8F-Just-go-and-cut-in-the-middle.-Here-goes-the-video-made-by-@j4vl.-Thanks-@Seed.mp4"><img alt="Qries" src="https://user-images.githubusercontent.com/52879067/166448285-b4b02f5a-7335-4521-8950-f41f29067419.png"></a>
+
+
+
 ### Desoldering video:
 - [Desoldering YT video by @BTCPuertoRico](https://www.youtube.com/watch?v=9TKrwdoipWQ)
 
@@ -121,5 +135,7 @@ Enjoy!
 As a note: If a new kernel is compiled without the WiFi or Bluetooth modules, as well as disabling certain components, it is not necessary to use any of the commands shown above.
 
 ---
+
+If you like it you can support me: <a href="http://btcpay.desobedientetecnologico.com/">On-Chain ⛓️ or ⚡️ Lightning network </a>
 
 ###### License: **CC BY 4.0**
