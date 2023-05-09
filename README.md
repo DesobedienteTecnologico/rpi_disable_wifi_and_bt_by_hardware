@@ -99,7 +99,7 @@ Once you have removed it you will see this (marked in red, the component to be r
 
 
 ### Desoldering video:
-- [Desoldering YT video by @BTCPuertoRico](https://www.youtube.com/watch?v=9TKrwdoipWQ)
+- [Desoldering YT video by @SeedSigner](https://video.twimg.com/amplify_video/1616914307140165635/vid/750x640/sTZKr1mknSnGfy0g.mp4?tag=16)
 
 ### Text tutorial just using desoldering iron:
 
